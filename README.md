@@ -36,3 +36,6 @@ option 4:
 - sudo systemctl stop apache2
 - sudo systemctl status apache2
 
+### MySQL
+- sudo apt install mysql-server
+- sudo service mysql status
